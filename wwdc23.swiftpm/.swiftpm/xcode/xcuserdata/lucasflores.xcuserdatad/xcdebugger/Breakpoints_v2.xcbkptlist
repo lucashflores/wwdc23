@@ -3,4 +3,324 @@
    uuid = "6F7DFCEC-0425-4259-87FD-D2CBDF192DF9"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "149B3C50-C00A-4908-8480-091758A6D48F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Simulation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Simulation"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 1e6f72f8dbbdf59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.__allocating_init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b21117409b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b21117409b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b21117409b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b21117409b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b211174086b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b211174086b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b211174086b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b211174086b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b2111740b63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b2111740b63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b2111740b63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7d263b2111740db6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int, temp: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - d03b789ce149a6f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.__allocating_init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 7ba9b351060a3d58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize, nodeNum: Swift.Int) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 253e6c5926a9efd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.__allocating_init(middle: __C.CGPoint, size: __C.CGSize) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 394fda3e5f37e686"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init(middle: __C.CGPoint, size: __C.CGSize) -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - 452e5fdc264a426f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.__allocating_init() -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - b2117c2318d27328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init() -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "149B3C50-C00A-4908-8480-091758A6D48F - b2117c2318d27328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc23.Simulation.init() -&gt; wwdc23.Simulation"
+                  moduleName = "wwdc23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasflores/repos/wwdc23/wwdc23.swiftpm/Simulation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

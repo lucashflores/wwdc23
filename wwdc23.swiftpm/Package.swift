@@ -8,18 +8,18 @@ import PackageDescription
 import AppleProductTypes
 
 let package = Package(
-    name: "wwdc23",
+    name: "Floriam's Lab",
     platforms: [
         .iOS("15.2")
     ],
     products: [
         .iOSApplication(
-            name: "wwdc23",
+            name: "Floriam's Lab",
             targets: ["AppModule"],
             bundleIdentifier: "appleDeveloperAcademy.wwdc23",
             displayVersion: "1.0",
             bundleVersion: "1",
-            appIcon: .placeholder(icon: .sun),
+            appIcon: .asset("AppIcon"),
             accentColor: .presetColor(.blue),
             supportedDeviceFamilies: [
                 .pad,
@@ -30,7 +30,8 @@ let package = Package(
                 .landscapeRight,
                 .landscapeLeft,
                 .portraitUpsideDown(.when(deviceFamilies: [.pad]))
-            ]
+            ],
+            appCategory: .education
         )
     ],
     targets: [
